@@ -1,6 +1,6 @@
 ![Logo of the project](https://avatars3.githubusercontent.com/u/40756580?s=200&v=4)
 
-# Project-name
+# Iulia-Teodora Băcanu's Portfolio for FPR1
 
 Laravel Skeleton App. Base project for all HZ-HBO-ICT Laravel projects.
 
@@ -68,6 +68,7 @@ The simplest way that ensures all the files are as close to a fresh installation
 
 ## Authors
 
+* **Iulia-Teodora Băcanu** - [Iuliabac](https://github.com/iuliabac)
 * **Daan de Waard** - *Initial work* - [dwaard](https://github.com/dwaard)
 
 See also the list of [contributors](https://github.com/HZ-HBO-ICT/laravel-skeleton-app/graphs/contributors) who
