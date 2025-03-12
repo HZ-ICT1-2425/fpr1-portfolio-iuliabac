@@ -8,16 +8,18 @@ use Illuminate\Http\Request;
 class FaqController extends Controller
 {
     /**
-     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View|\Illuminate\Foundation\Application
-     * Display a list of all of the
+     * Display a list of all the faqs
      */
     public function index()
     {
-        return view('faq', [
+        return view('faq.index', [
             'faq' => Faq::all()
         ]);
     }
 
+    /**
+     * create faq
+     */
     public function create()
     {
         return view('faq.create');

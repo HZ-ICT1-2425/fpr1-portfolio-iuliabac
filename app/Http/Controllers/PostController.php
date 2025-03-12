@@ -7,12 +7,19 @@ use Illuminate\Http\Request;
 
 class PostController extends Controller
 {
+    /**
+     * Display a listing of Posts.
+     */
     public function index()
     {
         return view('posts.index', [
             'posts' => Post::all()
-    ]);
+        ]);
     }
+
+    /**
+     * Show the form for creating a new Post.
+     */
     public function create()
     {
         return view('posts.create');

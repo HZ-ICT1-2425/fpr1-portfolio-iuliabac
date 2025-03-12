@@ -107,11 +107,13 @@
     <img align="Right"
          src="{{  asset('assets\cat_md_clr.gif')  }}" alt="">
     <p>I choose ICT because I had prior experience with it since the first grade up until high school. I was naturally talented using the computer at a very young age. I think my motivation for ICT came from my parents as well as my former IT teachers as they would always support me in working with computers.</p>
-    <p>During my school years, I would work a lot on various applications (Word, PowerPoint, Excel,). Though coding lessons were limited during my time at school, we would program simple websites using HTML as well as working on python using simple comands. and maybe, I could improve my coding skills during my time at this institution.</p>
+    <p>During my school years, I would work a lot on various applications (Word, PowerPoint, Excel,). Though coding lessons were limited during my time at school, we would program simple websites using HTML as well as working on python using simple commands. and maybe, I could improve my coding skills during my time at this institution.</p>
+
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
-                   height:auto;" alt=""></a>
+         height:auto;" alt=""></a>
+
     </body>
 </main>
 </html>
