@@ -91,11 +91,6 @@
         <a href="/posts/create" class="button is-primary">Create a new Blog Post</a>
     </div>
 
-    <h2><a href="/posts/study">Study Choice</a></h2>
-    <h2><a href="/posts/swot">Personal SWOT analysis</a></h2>
-    <h2><a href="/posts/programming">Programming experience</a></h2>
-    <h2><a href="/posts/feedback">First feedback</a></h2>
-
     <h2><a href="https://www.sciencedirect.com/science/article/abs/pii/S0308596123001088">(Article) ICT & employment in developing countries</a></h2>
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"

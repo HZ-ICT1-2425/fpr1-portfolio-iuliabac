@@ -89,21 +89,32 @@
     <div class="field">
         <label for ="title" class="label">title</label>
         <div class="control has-icons-right">
-            <input type="text" name="question" placeholder="Enter your title in here">
+            <input type="text" name="title" placeholder="Enter your title in here">
+        </div>
+    </div>
+
+    <div class="field">
+        <label for ="text" class="label">slug</label>
+        <div class="control has-icons-right">
+            <input type="text" name="slug" placeholder="Enter your slug in here">
         </div>
     </div>
 
     <div class="field">
         <label for ="text" class="label">text</label>
         <div class="control has-icons-right">
-            <input type="text" name="answer" placeholder="Enter your text in here">
+            <input type="text" name="text" placeholder="Enter your text in here">
         </div>
     </div>
 
-
     <div class="control">
-        <button type="submit">Submit</button>
+        <form method="POST" action="index.php">
+            <input type="submit" value="Submit">
+        </form>
+
     </div>
+
+
 
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
