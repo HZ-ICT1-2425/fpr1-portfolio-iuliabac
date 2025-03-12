@@ -7,6 +7,10 @@ use Illuminate\Http\Request;
 
 class FaqController extends Controller
 {
+    /**
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View|\Illuminate\Foundation\Application
+     * Display a list of all of the
+     */
     public function index()
     {
         return view('faq', [
